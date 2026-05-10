@@ -78,6 +78,7 @@ Google Colab provides a free, cloud-based Jupyter environment with GPU access �
 | **6. Problem 3** | Predicting Housing Prices in NYC | [`chapter-06/problem-3-nyc-housing.ipynb`](chapter-06/problem-3-nyc-housing.ipynb) | — |
 | **6. Problem 4** | Spam Detection | [`chapter-06/problem-4-spam-detection.ipynb`](chapter-06/problem-4-spam-detection.ipynb) | — |
 | **6. Problem 5** | Handwriting Recognition (MNIST) | [`chapter-06/problem-5-mnist-handwriting.ipynb`](chapter-06/problem-5-mnist-handwriting.ipynb) | — |
+| **6. Problem 6** | Deploying Deep Learning Models with Flask | [`chapter-06/problem-6-model-deployment-flask.ipynb`](chapter-06/problem-6-model-deployment-flask.ipynb) | — |
 
 ---
 
