@@ -66,19 +66,19 @@ Google Colab provides a free, cloud-based Jupyter environment with GPU access �
 
 ## Chapters and Notebooks Index
 
-| Chapter | Title / Topic | Notebook
-|---|---|---|
-| 1 | Chapter 1 | [`chapter-01/chapter-01.ipynb`](chapter-01/chapter-01.ipynb) 
-| 2 | Chapter 2 | [`chapter-02/chapter-02.ipynb`](chapter-02/chapter-02.ipynb) 
-| 3 | Chapter 3 | [`chapter-03/chapter-03.ipynb`](chapter-03/chapter-03.ipynb) 
-| 4 | Chapter 4 | [`chapter-04/chapter-04.ipynb`](chapter-04/chapter-04.ipynb) 
-| 5 | Chapter 5 | [`chapter-05/chapter-05.ipynb`](chapter-05/chapter-05.ipynb) 
-| **6. Problem 1** | Predicting House Prices with Deep Learning | [`chapter-06/problem-1-house-prices.ipynb`](chapter-06/problem-1-house-prices.ipynb) | — |
-| **6. Problem 2** | Weather Forecasting | [`chapter-06/problem-2-weather-forecasting.ipynb`](chapter-06/problem-2-weather-forecasting.ipynb) | — |
-| **6. Problem 3** | Predicting Housing Prices in NYC | [`chapter-06/problem-3-nyc-housing.ipynb`](chapter-06/problem-3-nyc-housing.ipynb) | — |
-| **6. Problem 4** | Spam Detection | [`chapter-06/problem-4-spam-detection.ipynb`](chapter-06/problem-4-spam-detection.ipynb) | — |
-| **6. Problem 5** | Handwriting Recognition (MNIST) | [`chapter-06/problem-5-mnist-handwriting.ipynb`](chapter-06/problem-5-mnist-handwriting.ipynb) | — |
-| **6. Problem 6** | Deploying Deep Learning Models with Flask | [`chapter-06/problem-6-model-deployment-flask.ipynb`](chapter-06/problem-6-model-deployment-flask.ipynb) | — |
+
+| Chapter | Title / Topic | Notebook |
+|----------|----------|----------|
+| 1 | Chapter 1 | [`chapter-01/chapter-01.ipynb`](chapter-01/chapter-01.ipynb) |
+| 2 | Chapter 2 | [`chapter-02/chapter-02.ipynb`](chapter-02/chapter-02.ipynb) |
+| 3 | Chapter 3 | [`chapter-03/chapter-03.ipynb`](chapter-03/chapter-03.ipynb) |
+| 4 | Chapter 4 | [`chapter-04/chapter-04.ipynb`](chapter-04/chapter-04.ipynb) |
+| 5 | Chapter 5 | [`chapter-05/chapter-05.ipynb`](chapter-05/chapter-05.ipynb) |
+| **6. Problem 1** | Predicting House Prices with Deep Learning | [`chapter-06/problem-1-house-prices.ipynb`](chapter-06/problem-1-house-prices.ipynb) |
+| **6. Problem 2** | Weather Forecasting | [`chapter-06/problem-2-weather-forecasting.ipynb`](chapter-06/problem-2-weather-forecasting.ipynb) |
+| **6. Problem 3** | Predicting Housing Prices in New York City | [`chapter-06/problem-3-nyc-housing.ipynb`](chapter-06/problem-3-nyc-housing.ipynb) |
+| **6. Problem 4** | Handwritten Digit Recognition (MNIST) | [`chapter-06/problem-4-mnist-handwriting.ipynb`](chapter-06/problem-4-mnist-handwriting.ipynb) |
+| **6. Problem 5** | Handwritten Digit Recognition Web Application Using PyTorch and Flask | [`chapter-06/problem-5-model-deployment-flask.ipynb`](chapter-06/problem-5-model-deployment-flask.ipynb) |
 
 ---
 
